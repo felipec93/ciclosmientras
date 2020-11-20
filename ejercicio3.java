@@ -1,11 +1,19 @@
 package tallerciclomientras;
 
-import java.util.Scanner; 
+import java.util.Scanner;
 
 public class ejercicio3 {
 	public static void main(String[] args) {
+		System.out.println(" 88888888888888888888888888888888888888888 ");
+		System.out.println(" -  ___________________________________  +");
+		System.out.println(" + | AUTOR:ANDRES FELIPE BOTINA        | -");
+		System.out.println(" - |       FECHA: 19-noviembre-2020    | +");
+		System.out.println(" + |       PROGRAMA DE ING. INDUSTRIAL | -");
+		System.out.println(" - |              ID:   760728         | +");
+		System.out.println(" + |___________________________________| -");
+		System.out.println(" 88888888888888888888888888888888888888888");
 
-		Scanner leer = new Scanner(System.in); 
+		Scanner leer = new Scanner(System.in);
 
 		int N, aux, inverso = 0, cifra;
 		do {
